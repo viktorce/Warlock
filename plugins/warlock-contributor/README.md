@@ -38,7 +38,7 @@ These commands inspect the repository without adopting the active work. Before i
 
 Load [warlock-workflow](skills/warlock-workflow/SKILL.md) for an authorized multi-agent continuation. Use the existing contributor engine for its participant record. Select that record explicitly from the current human instructions and handoff. An old default record does not identify current work.
 
-Follow [progress review and stall correction](references/redesign-flow.md#progress-review-and-stall-correction) when original acceptance stalls. Identify the next missing execution or integration step. Assign it to its existing owner. Compare the expected observation with the next actual terminal result. Preserve policy stops and original deadlines.
+Follow [the intervention rules](references/redesign-flow.md#clocks-and-intervention) when original acceptance stalls. Identify the next missing execution or integration step. Assign it to its existing owner. Compare the expected observation with the next actual terminal result. Preserve policy stops and original deadlines.
 
 Count original acceptance separately from component checks and agent activity. A reviewed source packet needs protected execution or a specific blocking prerequisite. Another review of unchanged bytes does not complete that step.
 
